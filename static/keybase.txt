@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/smileart
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://smileart.in.ua
+  * I am smileart (https://keybase.io/smileart) on keybase.
+  * I have a public key with fingerprint FD58 5BDB BCC3 16CC D35B  3D84 4BE7 D8CF D397 7061
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fd585bdbbcc316ccd35b3d844be7d8cfd3977061",
+            "host": "keybase.io",
+            "key_id": "4be7d8cfd3977061",
+            "kid": "010105bb6d33ed08b6d9b5c945eb17ead3cdb8cccd715b4894983c626bea22a8300d0a",
+            "uid": "c7972fb88debe38a58dea9a3f91d7e19",
+            "username": "smileart"
+        },
+        "service": {
+            "hostname": "smileart.in.ua",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436459755,
+    "expire_in": 157680000,
+    "prev": "1306241e2cece84d6ec311517195deaa9cc9f2ea01de53016d51060a6e2fdca6",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIYAnicbVJdSBVBFL5aZhpmCoWUSWy9WKI7uzv7c5NKTYKikMCrSCbzt7qo9972
+3muKSSXRDxYmFIaFpiBYiVFJ2kNpIaUUlIFUFgTZLTO1ByFKkJqVeolmHubMOd/5
+znxnzlDcEldsRGPGq9nC4Yq+iKcPs0Ou/NaOr7UC9tEawV0rlLPFw7S8pcz225Y3
+KLgFk0IdYooxITJQCaEyxDLVFQUzjerEpLKhaaIKhDShzBdwMjgNRgGWbvm4j19K
+LMq9/8GXLwZEwDfEWKWyzKioc8PAkBgKZBhoDFGZUKwTXlkDECu6oRi6TFRJxQxJ
+EtJlUaQi4nShRTqiGZpkYl2nDDNZR5AbyECyaQCqMWA4wACzvaiScXSg0qpgyA4K
+dWkC91ZZhDktcJT8g0i3vOkhp4zf9gV9xFfBY2XBoN/tpAZr/A72MMMlf1hKsOWl
+vJE8oYrZAcvnFdyAI0nQcmiBIqsKNDQI0wRW7bdsVmI5CKipusiXU4ZVcUogi6qk
+ACYRRpiuUJXxbwAQaMCAXBgyCDFMiSERUAZlEagUAlEVkcokkxKkCo6uQ16f4Nb5
+M1Gpo8gq9aJgyGZC3aPBA0tdEbGuZVGRzii4YmNW/R2Q9oHlrqHevJ6X842btlat
+rhkBEW9iEz9q42pxdnlC6qf9bV3SvvrknJVnI49l1V4evDiGPL03ThU8Mx+ktI7Y
+KyZTEiLDXy6QgwXoUl9++1xteF3nqKe+rblusGVt0zY21/0hzvP+/ELDtNYFW3aN
+jHcrL1JnCiZ+VT8expn9qYVFEO8+13/SmPs+m5kz1+6JvDrVUxOfvDF3pjEqI3fq
+DsrriA5HGVcOhYsTJt95tmzWr6UeR0eTm6tvXV8oK0rKn1yzczR0N3/vkenTE0lj
+OxqitheH791/nZE4MJk1f7N3Qzj6W9KJzs/xP+afnxl+gmKm2k3j59vWnNvr9zQF
+sqtbYpJ/A27/LuQ=
+=d+3f
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smileart
+
+==================================================================

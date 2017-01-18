@@ -1,0 +1,30 @@
+languageCode = "ru-ru"
+title = "Smile @rT's personal blog"
+baseurl = "http://smileart.in.ua/"
+theme = "hugo-theme-nix"
+
+[params]
+  GithubID = "smileart"
+  TwitterID = "smileart"
+  LinkedInID = "serge-bedzhyk"
+  FacebookID = "smileart"
+  InstagramID = "smileart"
+  KeybaseID = "smileart"
+  Name = "Serge Bedzhyk"
+  HeaderUsername = "smileart"
+  HeaderHostname = "smileart.in.ua"
+  Email = "smileart21@gmail.com"
+  About = "ʕ|⊙_ʖ⊙|ʔ → web-developer 💻 | reader 📖 | gamer🕹 | curious geek 🤓 | and a fan of the UK 🇬🇧"
+  ProfilePicture = "http://www.gravatar.com/avatar/0741fe85201c947ecc2cf6180a1d28bc.jpg?s=512"
+  GoogleAnalytics = "UA-90567921-1"
+  disqusShortname = "smileart-in-ua"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "projects"
+    weight = 0
+    url = "/projects"
