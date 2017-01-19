@@ -5,4 +5,6 @@ description = "Simple QR interface to pws gem. Helps to use your passwords on a 
 nocomments = true
 +++
 
+<div style="text-align:center"> <img title="© Smile @rT" src ="/img/projects/pwsqr/pwsqr.png" /> </div>
+<br />
 Simple QR interface to pws gem. Helps to use your passwords on a smartphone. [[link](https://github.com/smileart/pwsqr)]
