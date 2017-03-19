@@ -28,3 +28,7 @@ theme = "hugo-theme-nix"
     name = "projects"
     weight = 0
     url = "/projects"
+  [[menu.header]]
+    name = "links"
+    weight = 0
+    url = "http://links.smileart.in.ua"
