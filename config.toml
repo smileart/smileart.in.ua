@@ -15,7 +15,7 @@ theme = "hugo-theme-nix"
   HeaderHostname = "smileart.in.ua"
   Email = "smileart21@gmail.com"
   About = "ʕ|⊙_ʖ⊙|ʔ → web-developer 💻 | reader 📖 | gamer🕹 | curious geek 🤓 | and a fan of the UK 🇬🇧"
-  ProfilePicture = "/img/shared/avatar.jpg"
+  ProfilePicture = "/img/shared/bitmoji.png"
   GoogleAnalytics = "UA-90567921-1"
   disqusShortname = "smileart-in-ua"
 
